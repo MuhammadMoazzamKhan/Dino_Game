@@ -54,6 +54,12 @@
 .animateflydino{
     animation: flydino 5s linear infinite;
 }
+
+.name{
+    font-size: 1.0cm;
+    color: #fff;
+    font-family: 'Courier New', Courier, monospace;
+}
 @keyframes dino{
     0%{
         bottom: 0;
